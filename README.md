@@ -23,6 +23,7 @@
 
 
 <p><br/><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanusha-27&show_icons=true&locale=en&layout=compact" alt="tanusha-27" /></p>
+<p></p>
 <br/>
 <p>&nbsp;<br/><img align="center" src="https://github-readme-stats.vercel.app/api?username=tanusha-27&show_icons=true&locale=en" alt="tanusha-27" style="max-width:100%" /></p>
 

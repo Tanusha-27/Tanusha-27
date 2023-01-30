@@ -1,4 +1,4 @@
-![logo](https://github.com/Tanusha-27/Tanusha-27/blob/main/bg.png)
+![logo](https://github.com/Tanusha-27/Tanusha-27/blob/main/Tanusha.gif)
 <h1 align="center">Hi 👋, I'm Tanusha Sable</h1>
 <h3 align="center">A passionate Frontend Web developer from India</h3>
 
